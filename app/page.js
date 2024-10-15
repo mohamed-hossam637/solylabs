@@ -130,6 +130,55 @@ export default function Home() {
       </div>
     </section>
 
+    <section className="py-4 boxs">
+      <div className="container">
+        <h2>
+          minimize friction and increase productivity
+        </h2>
+        <div>
+          <h5>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit - Time data
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit - Time data
+          </h5>
+          <div className="row gap-3">
+            <div className="col-lg-3">
+              <div className="icon text-center py-3">
+                <i className="fa-solid fa-laptop-code"></i>
+              </div>
+              <h5 className="fw-bold">
+                title
+              </h5>
+              <p>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit
+              </p>
+            </div>
+            <div className="col-lg-3">
+              <div className="icon text-center py-3">
+                <i className="fa-solid fa-laptop-code"></i>
+              </div>
+              <h5 className="fw-bold">
+                title
+              </h5>
+              <p>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit
+              </p>
+            </div>
+            <div className="col-lg-3">
+              <div className="icon text-center py-3">
+                <i className="fa-solid fa-laptop-code"></i>
+              </div>
+              <h5 className="fw-bold">
+                title
+              </h5>
+              <p>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
     <section className="faq py-3">
       <div className="container">
         <div className="d-flex justify-content-center align-items-center flex-column w-100">
@@ -137,10 +186,10 @@ export default function Home() {
             FAQs
           </h5>
           <h2>
-          Frequently Asked Questions
+            Frequently Asked Questions
           </h2>
           <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit - Time data
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit - Time data
           </p>
         </div>
         <div className="row w-100 py-3">

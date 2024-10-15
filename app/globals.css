@@ -306,6 +306,45 @@ details p {
   color: rgba(255, 255, 255, 75%);
 }
 /* faq */
+/* boxs */
+.boxs h2 {
+  color: #fff;
+  text-transform: capitalize;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+.boxs .container > div {
+  padding: 25px 40px;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+  background-color: rgba(255, 255, 255, 5%) ;
+}
+.boxs > div h5 {
+  color: #fff ;
+  margin-bottom: 20px;
+}
+.boxs .container .row > div h5 {
+  font-weight: bold;
+  text-transform: capitalize;
+}
+.boxs .container .row > div i {
+  color: #fff;
+  font-size: 1.8em;
+}
+.boxs .container .row > div {
+  background-color: #00ffa22e;
+  border: 1px solid #00FFA0;
+  border-radius: 8px;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  -ms-border-radius: 8px;
+  -o-border-radius: 8px;
+  color: rgba(255, 255, 255, 75%);
+}
+/* boxs */
 /* animation */
 .fade-left {
   opacity: 0;
